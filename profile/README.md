@@ -1,6 +1,7 @@
 ## Hi there 👋
+![channel_banner](https://user-images.githubusercontent.com/70483046/137577746-f6de7ecd-323f-437b-b1be-73b0b8398ed0.png)
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
@@ -9,4 +10,4 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+
