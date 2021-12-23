@@ -11,5 +11,5 @@
 🍿 Got no popcorn today, sir. But some repos are cooking hot yo!:
 - ```laas```
 - ```port-sweep```
-- ```brutesmoll```
+- ```postsmoll```
 - ```hotpotcookie.github.io```
