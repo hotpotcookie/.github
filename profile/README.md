@@ -12,4 +12,4 @@
 - ```docksmoll```
 - ```lol4j-white-box```
 
-<html><p>🌱 Showcase: <a href="https://youtube.com/playlist?list=PLcMxarn0lcOkfmxSUOfh7ZDuZDWJfD5_3" target="_blank" rel="noopener noreferrer">hotpotcookie's YouTube</a</p><html>
+<html><p>🌱 Showcase: <a href="https://youtube.com/playlist?list=PLcMxarn0lcOkfmxSUOfh7ZDuZDWJfD5_3" target="_blank" rel="noopener noreferrer">hotpotcookie's YouTube - Showcase</a</p><html>
