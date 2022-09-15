@@ -9,7 +9,7 @@
 🌈 Get involved by simply create a pull request, and tell us your favourite tech! 
 👩‍💻 Documentations are one of the main backlog that are we are currently focused on<br><br>
 🍿 Got no popcorn today, sir. But some repos are cooking hot yo!:
-- ```laas```
-- ```port-sweep```
-- ```postsmoll```
+- ```docksmoll```
 - ```lol4j-white-box```
+
+<html><p>🌱 Showcase: <a href="https://youtube.com/playlist?list=PLcMxarn0lcOkfmxSUOfh7ZDuZDWJfD5_3" target="_blank" rel="noopener noreferrer">hotpotcookie's YouTube</a</p><html>
